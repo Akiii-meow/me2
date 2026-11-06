@@ -1,5 +1,10 @@
 # Привет! Я [Ваше Имя / Никнейм] 👋
 
+<!-- БАННЕР-ФОН -->
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphwSPeVgsyPf5ozH5QytuaPxtwuMhFXi-e5MI9F7GxA&s=10" alt="Purple Waves Banner" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com" alt="Просмотры" />
 </p>
@@ -31,13 +36,6 @@
   <img src="https://shields.io" alt="PostgreSQL"/>
 </p>
 
-#### Инструменты & Devops
-<p align="left">
-  <img src="https://shields.io" alt="Git"/>
-  <img src="https://shields.io" alt="Docker"/>
-  <img src="https://shields.io" alt="VS Code"/>
-</p>
-
 ---
 
 ### 📊 Моя статистика на GitHub
@@ -57,7 +55,5 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn"/>
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://shields.io" alt="Website"/>
-  </a>
 </p>
+
